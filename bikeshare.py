@@ -204,7 +204,7 @@ def user_stats_birth(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-
+#Display prompt for more data
 def more_data(df):
     st = 0
     more_data = input('\nWould you like to see more data? Enter yes or no.\n')
