@@ -15,3 +15,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Changes
 This is where I've added changes to the Readme file
+
+### Additional changes
+Here I've added additional changes to the original document
